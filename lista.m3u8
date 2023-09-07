@@ -1,0 +1,212 @@
+#EXTM3U
+
+
+#EXTINF:-1,Willax HD
+https://ott1.hdlatam.tv/live_abr/Stream2/playlist.m3u8
+
+#EXTINF:-1,Latina HD
+https://ott2.hdlatam.tv/live_abr/Stream13/playlist.m3u8
+
+#EXTINF:-1,BHTv
+https://ott2.hdlatam.tv/live_abr/Stream13/playlist.m3u8
+
+#EXTINF:-1,América HD
+https://ott2.hdlatam.tv/live_abr/Stream25/playlist.m3u8
+
+#EXTINF:-1,Panamericana HD
+https://ott1.hdlatam.tv/live_abr/Stream3/playlist.m3u8
+
+#EXTINF:-1,Exitosa HD
+https://ott1.hdlatam.tv/live_abr/Stream5/playlist.m3u8
+
+#EXTINF:-1,Exitosa HD
+https://ott1.hdlatam.tv/live/TVPERU_SD/playlist.m3u8
+
+#EXTINF:-1,ATV+NOTICIAS
+https://ott1.hdlatam.tv/live_abr/Stream12/playlist.m3u8
+
+#EXTINF:-1,ATV HD
+https://ott2.hdlatam.tv/live_abr/Stream17/playlist.m3u8
+
+#EXTINF:-1,La Tele HD
+https://ott2.hdlatam.tv/live_abr/Stream15/playlist.m3u8
+
+#EXTINF:-1,Viva TV
+https://ott1.hdlatam.tv/live_abr/Stream11/playlist.m3u8
+
+#EXTINF:-1,USMP HD
+https://ott2.hdlatam.tv/live_abr/Stream24/playlist.m3u8
+
+#EXTINF:-1,Global HD
+https://ott2.hdlatam.tv/live_abr/Stream14/playlist.m3u8
+
+#EXTINF:-1,ATV SUR
+https://ott1.hdlatam.tv/live_abr/Stream6/playlist.m3u8
+
+#EXTINF:-1,Karibenia
+https://ott2.hdlatam.tv/live_abr/Stream16/playlist.m3u8
+
+#EXTINF:-1,Enlace
+https://ott2.hdlatam.tv/live_abr/Stream73/playlist.m3u8
+
+#EXTINF:-1,USMP MUSIC
+https://ott2.hdlatam.tv/live_abr/Stream23/playlist.m3u8
+
+#EXTINF:-1,JN19TV
+https://ott1.hdlatam.tv/live_abr/Stream1/playlist.m3u8
+
+#EXTINF:-1,JN192TV
+https://ott1.hdlatam.tv/live_abr/Stream9/playlist.m3u8
+
+#EXTINF:-1,TV Perú Noticias
+https://ott1.hdlatam.tv/live/TVPERUNOTICIAS_SD/playlist.m3u8
+
+#EXTINF:-1,IPE TV
+https://ott1.hdlatam.tv/live_abr/Stream10/playlist.m3u8
+
+#EXTINF:-1,Bethel TV
+https://ott2.hdlatam.tv/live_abr/Stream18/playlist.m3u8
+
+#EXTINF:-1,Bethel Plus
+https://ott2.hdlatam.tv/live_abr/Stream19/playlist.m3u8
+
+#EXTINF:-1,Conecta2TV
+https://ott2.hdlatam.tv/live/conect2tv/playlist.m3u8
+
+#EXTINF:-1,Fuego TV
+https://ott2.hdlatam.tv/live/fuegotv/playlist.m3u8
+
+#EXTINF:-1,Onda Digital
+https://ott1.hdlatam.tv/live_abr/ONDATV/playlist.m3u8
+
+#EXTINF:-1,ODTV
+https://ott1.hdlatam.tv/live_abr/ONDATV/playlist.m3u8
+
+#EXTINF:-1,Trivutv
+https://ott1.hdlatam.tv/live/trivutv/playlist.m3u8
+
+#EXTINF:-1,EJTV
+https://ott2.hdlatam.tv/live_abr/Stream72/playlist.m3u8
+
+#EXTINF:-1,Radio Z
+https://ott1.hdlatam.tv/live_abr/Stream7/playlist.m3u8
+
+#EXTINF:-1,ODTV 2
+https://v4.tustreaming.cl:443/odtv2/index.m3u8
+
+#EXTINF:-1,Asiri TV
+https://ott1.hdlatam.tv/live/asiri_tv/playlist.m3u8
+
+#EXTINF:-1,Canal B
+https://ott1.hdlatam.tv/live/Canal_B/playlist.m3u8
+
+#EXTINF:-1,EWTN
+https://ott2.hdlatam.tv/live_abr/Stream68/playlist.m3u8
+
+#EXTINF:-1,Dw
+https://ott2.hdlatam.tv/live_abr/Stream54/playlist.m3u8
+
+#EXTINF:-1,Canal Luz
+https://ott1.hdlatam.tv/live_abr/canalLUZ/playlist.m3u8
+
+#EXTINF:-1,TeleSur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1,RT Español
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1,France 24 Spanish
+https://live.france24.com/live/F24_ES_HI_HLS/playlist.m3u8?hdnts=exp=1701853995~acl=/live/F24_ES_HI_HLS/*~hmac=d7a6ee6032881e103a3215e58825b495658518a4e4b7b00ec3a78fab8ce2ed7d&partner=yottalan
+
+#EXTINF:-1,France 24 English
+https://live.france24.com/live/F24_EN_HI_HLS/playlist.m3u8?hdnts=exp=1701853995~acl=/live/F24_EN_HI_HLS/*~hmac=d7a6ee6032881e103a3215e58825b495658518a4e4b7b00ec3a78fab8ce2ed7d&partner=yottalan
+
+#EXTINF:-1,France 24 Francais
+https://live.france24.com/live/F24_FR_HI_HLS/playlist.m3u8?hdnts=exp=1701853995~acl=/live/F24_FR_HI_HLS/*~hmac=d7a6ee6032881e103a3215e58825b495658518a4e4b7b00ec3a78fab8ce2ed7d&partner=yottalan
+
+#EXTINF:-1,Sophia TV
+https://ott2.hdlatam.tv/live_abr/Stream42/playlist.m3u8
+
+#EXTINF:-1,Inka Vision Cusco
+https://ott1.hdlatam.tv/live_abr/INKAVISION/playlist.m3u8
+
+#EXTINF:-1,Tv Mundo Cusco
+https://ott1.hdlatam.tv/live_abr/TVMUNDOCUSCO/playlist.m3u8
+
+#EXTINF:-1,TvenLinea Cusco
+https://ott1.hdlatam.tv/live/TVenlineaCuzco/playlist.m3u8
+
+#EXTINF:-1,Tv Mundo Arequipa
+https://ott1.hdlatam.tv/live_abr/TVmundoArequipa/playlist.m3u8
+
+#EXTINF:-1,Vision Sur
+https://ott1.hdlatam.tv/live_abr/VISIONSUR/playlist.m3u8
+
+#EXTINF:-1,Cadena TV Huancayo
+https://ott1.hdlatam.tv/live_abr/cadenaTV/playlist.m3u8
+
+#EXTINF:-1,Unicentro TV Huancayo
+https://ott1.hdlatam.tv/live/UnicentroTV/playlist.m3u8
+
+#EXTINF:-1,Canal 21 Huancayo
+https://ott1.hdlatam.tv/live/huancayo/canal21/playlist.m3u8
+
+#EXTINF:-1,Piura TV
+https://ott1.hdlatam.tv/live/PiuraTV/playlist.m3u8
+
+#EXTINF:-1,TVO Piura
+https://ott1.hdlatam.tv/live/piura/TVO/playlist.m3u8
+
+#EXTINF:-1,Piura Plus TV
+https://ott1.hdlatam.tv/live/piura/PiuraPlusTV/playlist.m3u8
+
+#EXTINF:-1,Cajamarca TV
+https://ott1.hdlatam.tv/live/cajamarcatv/playlist.m3u8
+
+#EXTINF:-1,Creo TV
+https://ott1.hdlatam.tv/live/CreoTV/playlist.m3u8
+
+#EXTINF:-1,CreoMovie
+https://ott1.hdlatam.tv/live/Creomovie/playlist.m3u8
+
+#EXTINF:-1,Urbano TV
+https://ott1.hdlatam.tv/live/Creo_Urbano/playlist.m3u8
+
+#EXTINF:-1,Te quiero TV
+https://ott1.hdlatam.tv/live/tequierotv/playlist.m3u8
+
+#EXTINF:-1,Television Tarapoto
+https://ott1.hdlatam.tv/live_abr/TVTARAPOTO/playlist.m3u8
+
+#EXTINF:-1,VIATV
+https://ott1.hdlatam.tv/live_abr/VIATV/playlist.m3u8
+
+#EXTINF:-1,CNC IQUITOS
+https://ott1.hdlatam.tv/live/CNCdigitallive/playlist.m3u8
+
+#EXTINF:-1,Innova TV
+https://ott1.hdlatam.tv/live/innovatv/playlist.m3u8
+
+#EXTINF:-1,Uriol TV
+https://ott1.hdlatam.tv/live_abr/UriolTV/playlist.m3u8
+
+#EXTINF:-1,TV Cosmos
+https://ott1.hdlatam.tv/live/tvcosmos/playlist.m3u8
+
+#EXTINF:-1,Radio y TV charles
+https://ott1.hdlatam.tv/live/cajamarca/RTVC/playlist.m3u8
+
+#EXTINF:-1,Atlantis TV Ayacucho
+https://ott1.hdlatam.tv/live_abr/Atlantis/playlist.m3u8
+
+#EXTINF:-1,Radio Onda Digital
+https://ott1.hdlatam.tv/live/radiotvondadigitallive/playlist.m3u8
+
+#EXTINF:-1,Geniostv
+https://live.obslivestream.com/geniostvmux/index.m3u8
+
+#EXTINF:-1,AutenticaTV
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+
+#EXTINF:-1,BNB DIGITAL PUCALLPA
+https://ott1.hdlatam.tv/live/BNB/playlist.m3u8
